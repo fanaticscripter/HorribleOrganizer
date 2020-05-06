@@ -79,7 +79,7 @@ Clone the repository, then
 
 ```
 go build
-cp config.toml.example config.toml
+cp config.example.toml config.toml
 ```
 
 Edit `config.toml` to define shows to be organized. Then run `./HorribleOrganizer` to get started.
