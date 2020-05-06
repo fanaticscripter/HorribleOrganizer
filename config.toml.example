@@ -1,0 +1,30 @@
+[shows]
+    [shows."One Piece"]
+    # id is the TheTVDB Series ID of the show.
+    id = 81797
+    # mapping lists mappings from total episode numbers to TheTVDB seasonal
+    # episode numbers.
+    mapping = [
+        "E1-8: S1E1-8",
+        "E9-30: S2E1-22",
+        "E31-47: S3E1-17",
+        "E48-60: S4E1-13",
+        "E61-69: S5E1-9",
+        "E70-91: S6E1-22",
+        "E92-130: S7E1-39",
+        "E131-143: S8E1-13",
+        "E144-195: S9E1-52",
+        "E196-226: S10E1-31",
+        "E227-325: S11E1-99",
+        "E326-381: S12E1-56",
+        "E382-481: S13E1-100",
+        "E482-516: S14E1-35",
+        "E517-578: S15E1-62",
+        "E579-589: S16E1-11",
+        "E591-628: S16E12-49",
+        "E629-746: S17E1-118",
+        "E747-779: S18E1-33",
+        "E780-877: S19E1-98",
+        "E878-891: S20E1-14",
+        "E892-: S21E1-",
+    ]
